@@ -26,9 +26,11 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 bg-white shadow z-50">
       <nav className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3">
         {/* Logo */}
-        <div className="text-xl font-bold text-emerald-700">
-        <img src="/" alt="Logo" className="h-10 w-auto" />
-        </div>
+       <div className="text-2xl font-bold text-emerald-700">
+  BuildMyAI
+</div>
+
+
 
         {/* Links */}
         <ul className="flex gap-6 text-gray-700 font-medium items-center relative">
